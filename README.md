@@ -1,3 +1,4 @@
+[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
 ### Hi there 👋 EAvila34 here. A backend developer & coffee lover!
 - 🔭 I’m currently working on many projects like e-commerce, wordpress websites, ionic apps & more
 - 🌱 I’m currently learning Ruby & Ruby On Rails
