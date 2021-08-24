@@ -1,5 +1,5 @@
 [![Eduardo Avila](./assets/codeBanner.jpg)](https://eavila.dev)
-### Hi there 👋 EAvila34 here. A backend developer & coffee lover!
+### Hi there 👋 Eduardo Avila here. A Full-Stack Web Developer.
 - 🔭 I’m currently working on many projects like e-commerce, wordpress websites, ionic apps & more
 - 🌱 I’m currently learning Ruby & Ruby On Rails
 - 👯 I’m looking to collaborate on any open source projects so, feel free invite me to some one
