@@ -1,9 +1,9 @@
 [![Eduardo Avila](./assets/codeBanner.jpg)](https://eavila.dev)
 ### Hi there 👋 Eduardo Avila here. A Full-Stack Web Developer.
-- 🔭 I’m currently working on many projects like e-commerce, wordpress websites, ionic apps & more
-- 🌱 I’m currently learning Ruby & Ruby On Rails
+- 🔭 I’m currently looking for a great job in a great IT company to grow together
+- 🌱 I’m currently learning the MEAN stack (Mongo + Express + Angular + Node)
 - 👯 I’m looking to collaborate on any open source projects so, feel free invite me to some one
-- 💬 Ask me about PHP, Codeigniter 3, jQuery, Javascript & Ionic
+- 💬 Ask me about PHP, Codeigniter, Laravel, Angular, Javascript & Ionic
 
 <h3>Get in touch!</h3>
 <p>:email: elnew.luis@gmail.com</p>
