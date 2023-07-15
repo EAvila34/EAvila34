@@ -23,9 +23,7 @@
 	<a href="https://www.javascript.com/" rel="nofollow">
 		<img alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;" width="26px" align="left">
 	</a>
-	<a href="https://reactjs.org/" rel="nofollow">
-		<img alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="max-width:100%;" width="26px" align="left">
-	</a>
+	
 	<a href="https://nodejs.org/en/" rel="nofollow">
 		<img alt="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width:100%;" width="26px" align="left">
 	</a>
@@ -35,15 +33,9 @@
 	<a href="https://www.typescriptlang.org/">
 		<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" class="rounded-1 mr-3" alt="typescript"  style="max-width:100%;" width="26px" align="left">
 	</a>
-  	<a href="https://wordpress.org/">
-  		<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" alt="wordpress logo" width="26"  style="max-width:100%;" width="26px" align="left">
-  	</a>
-  	<a href="https://www.ruby-lang.org/es/">
-  		<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" alt="ruby logo"  style="max-width:100%;" width="26px" align="left" >
-  	</a>
-  	<a href="https://rubyonrails.org/">
-  		<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" alt="rails logo"  style="max-width:100%;" width="26px" align="left" >
-  	</a>
+  	
+  	
+  	
   	<a href="https://www.php.net">
   		<img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="php logo"  style="max-width:100%;" width="26px" align="left">
   	</a>
