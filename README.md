@@ -1,7 +1,7 @@
 [![Eduardo Avila](./assets/codeBanner.jpg)](https://eavila.dev)
 ### Hi there 👋 Eduardo Avila here. A Full-Stack Web Developer.
 - 🔭 I’m currently looking for a great job in a great IT company to grow together
-- 🌱 I’m currently learning the MEAN stack (Mongo + Express + Angular + Node)
+- 🌱 I’m currently learning COBOL
 - 👯 I’m looking to collaborate on any open source projects so, feel free invite me to some one
 - 💬 Ask me about PHP, Codeigniter, Laravel, Angular, Javascript & Ionic
 
