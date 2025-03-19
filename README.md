@@ -1,12 +1,12 @@
 [![Eduardo Avila](./assets/codeBanner.jpg)](https://eavila.dev)
 ### Hi there 👋 Eduardo Avila here. A Full-Stack Web Developer.
 - 🔭 I’m currently looking for a great job in a great IT company to grow together
-- 🌱 I’m currently learning COBOL
+- 🌱 I’m currently learning Nodejs
 - 👯 I’m looking to collaborate on any open source projects so, feel free invite me to some one
 - 💬 Ask me about PHP, Codeigniter, Laravel, Angular, Javascript & Ionic
 
 <h3>Get in touch!</h3>
-<p>:email: elnew.luis@gmail.com</p>
+<p>:email: luis.edu.avila.u@gmail.com</p>
 <p>:iphone: +52 8717101987</p>
 
 <h3>Languages and Tools</h3>
